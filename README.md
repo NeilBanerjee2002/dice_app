@@ -1,3 +1,4 @@
+!(https://c0.wallpaperflare.com/preview/974/639/758/man-play-game-ludo.jpg)
 # Dicee 🎲
 
 ## Our Goal
@@ -19,6 +20,7 @@ Objective of this application is to make a dice show up any random number betwee
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, I thank my instructor Angela Yu for her exemplary sessions to make understand the topics.
+>[www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
