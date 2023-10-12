@@ -1,4 +1,4 @@
-!(https://c0.wallpaperflare.com/preview/974/639/758/man-play-game-ludo.jpg)
+![Header](https://c0.wallpaperflare.com/preview/974/639/758/man-play-game-ludo.jpg)
 # Dicee 🎲
 
 ## Our Goal
