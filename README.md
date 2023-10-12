@@ -1,2 +1,5 @@
 # dice_app
-To develop  a mobile application both compatible with android and iOS using flutter . 
+
+<h1>Dice App</h1>
+<h2>Aim</h2>
+<p>The aim of this app is this
